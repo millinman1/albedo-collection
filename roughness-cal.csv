@@ -2,20 +2,20 @@ site,z0,zd,ra,site description
 CA-Obs,,,,
 US-Blk,,,,
 US-MMS,,,,
-US-MOz,,,,
-US-Dia,,,,
+US-MOz, 1.48, 15.40, 9.02, Deciduous Broadleaf Forest
+US-Dia,0.04,0.65,19.1,Grassland
 US-KUT,0.03,0.049,159.6,Temperature grassland
-CA-Qcu,,,,
+CA-Qcu,0.24,8.4,27.7,Boreal Black Spruce/Jack Pine Cutover
 CA-Qfo,1.86,9.66,8.55,Boreal Mature Black Spruce
 US-Slt,,,,
-US-UMB,,,,
+US-UMB,2.32,15.4,3.4,Deciduous Broadlead Forest
 US-Br3,,,,
 US-Bo1,0.04,1.37,50.1,Croplands
-US-NC1,,,,
+US-NC1,0.38,3.5,23.5, Young pine forest
 US-Whs,,,,
 US-SRG,,,,
 US-Var,0.09,0.03499,58.0899,Grasslands
 US-Bo2,,,,
 US-Br1,,,,
 CA-TPD,,,,
-US-Oho,,,,
+US-Oho,2.66,1.75,5.63,Deciduous broadleaf forest
